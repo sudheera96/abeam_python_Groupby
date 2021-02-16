@@ -1,12 +1,16 @@
 # abeam_python_Groupby
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdAvw2XOHzl55u-rBk2XMdtGh14HiTzS1AA&usqp=CAU" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="40" height="60">
 
 ## What is apache beam?
 
 Apache Beam basically a data processing platform. Data processing can be either for analytics purpose or it can be ETL (Extract, Transfer, Load). Apache beam  doesn't
 reply on any one execution engine.The input data can be streaming data or batch data. Input data can be from some database like relational database or memory database. so
 apache beam is execution platform agnostic and data agnostic also programming agnostic i.e, it supports multiple programming language you can write your logic in java python,go.
-
-![](https://www.slideteam.net/media/catalog/product/cache/960x720/d/a/data_flow_model_and_sdks_pipelines_slide01.jpg)
+<p align="center">
+<img src="https://www.slideteam.net/media/catalog/product/cache/960x720/d/a/data_flow_model_and_sdks_pipelines_slide01.jpg"
+     alt="Size Limit logo by Anton Lovchikov" width="650" height="500">
+ </p>
 
 ## Terminology 
 * `Pipelines` 
@@ -60,8 +64,7 @@ Google Colab has python preinstalled. On it, it is easy to start using apache be
 Look at my [netflixGroupBy.ipynb](https://github.com/sudheera96/abeam_python_Groupby/blob/main/netflixGroupBy.ipynb) Colab python notebook
 
 
-
-
+## Resources
 
 
 
