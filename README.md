@@ -66,6 +66,12 @@ Look at my [netflixGroupBy.ipynb](https://github.com/sudheera96/abeam_python_Gro
 
 ## Resources
 
+[Apache Beam Group By](https://beam.apache.org/documentation/transforms/python/aggregation/groupby/)
+
+[Kaggle data set](https://www.kaggle.com/shivamb/netflix-shows)
+
+[Apache Beam Colab](https://colab.research.google.com/github/apache/beam/blob/master/examples/notebooks/get-started/try-apache-beam-py.ipynb)
+
 
 
 
