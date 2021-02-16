@@ -63,6 +63,13 @@ Google Colab has python preinstalled. On it, it is easy to start using apache be
 
 Look at my [netflixGroupBy.ipynb](https://github.com/sudheera96/abeam_python_Groupby/blob/main/netflixGroupBy.ipynb) Colab python notebook
 
+## Links
+[Sri Sudheera Colab File](https://github.com/sudheera96/abeam_python_Groupby/blob/main/netflixGroupBy.ipynb)
+
+[Sri Sudheera Project input file](https://github.com/sudheera96/abeam_python_Groupby/blob/main/netflix_titles.csv)
+
+[Sri Sudheera Project output file](https://github.com/sudheera96/abeam_python_Groupby/blob/main/results.txt-00000-of-00001) 
+
 
 ## Resources
 
