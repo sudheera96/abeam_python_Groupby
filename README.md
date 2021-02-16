@@ -43,6 +43,24 @@ pip install apache-beam[gcp,aws,test,docs]
 ```
 For more detail go to this [link](https://beam.apache.org/get-started/quickstart-py/)
 
+## Google Colab
+
+Google Colab has python preinstalled. On it, it is easy to start using apache beam.
+
+* Open firefox or safari browser
+* Type Google Colab
+* Click on first link that is Google Colab
+* Sign in with google account
+* Click on notebook after appearing the window with recent
+
+`Note: Google Colab works similar to jupyter notebook`
+
+* After writing and execution of code,save file in local or Github
+
+Look at my [netflixGroupBy.ipynb](https://github.com/sudheera96/abeam_python_Groupby/blob/main/netflixGroupBy.ipynb) Colab python notebook
+
+
+
 
 
 
